@@ -1,0 +1,12 @@
+
+tk
+requests[socks]
+stem
+beautifulsoup4
+selenium
+weasyprint
+networkx
+matplotlib
+Flask
+lxml
+PyInstaller
